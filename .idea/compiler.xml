@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jsonschema2pojo-ant" />
+        <module name="jsonschema2pojo-cli" />
+        <module name="jsonschema2pojo-core" />
+        <module name="jsonschema2pojo-gradle-plugin" />
+        <module name="jsonschema2pojo-integration-tests" />
+        <module name="jsonschema2pojo-maven-plugin" />
+        <module name="jsonschema2pojo-scalagen" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jsonschema2pojo" options="-Xlint:deprecation" />
+      <module name="jsonschema2pojo-ant" options="-Xlint:deprecation" />
+      <module name="jsonschema2pojo-cli" options="-Xlint:deprecation" />
+      <module name="jsonschema2pojo-core" options="-Xlint:deprecation" />
+      <module name="jsonschema2pojo-gradle-plugin" options="-Xlint:deprecation" />
+      <module name="jsonschema2pojo-integration-tests" options="-Xlint:deprecation" />
+      <module name="jsonschema2pojo-maven-plugin" options="-Xlint:deprecation" />
+      <module name="jsonschema2pojo-scalagen" options="-Xlint:deprecation" />
+    </option>
+  </component>
+</project>

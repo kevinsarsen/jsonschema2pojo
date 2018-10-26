@@ -16,7 +16,7 @@ build/
 .gradle
 
 # IntelliJ files #
-.idea
+# .idea
 *.iml
 
 # Scratch files

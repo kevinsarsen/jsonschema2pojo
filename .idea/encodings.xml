@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsonschema2pojo-ant" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsonschema2pojo-cli" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsonschema2pojo-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsonschema2pojo-gradle-plugin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsonschema2pojo-integration-tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsonschema2pojo-maven-plugin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsonschema2pojo-scalagen" charset="UTF-8" />
+  </component>
+</project>
